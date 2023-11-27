@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "afdc70b784020580626ad97b29310795",
+    "revision": "8c4a3605c4f9ca727cd3c161a3d5c647",
     "url": "/textify/index.html"
   },
   {
